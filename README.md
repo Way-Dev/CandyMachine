@@ -85,6 +85,3 @@ https://github.com/theskeletoncrew/treat-toolbox (WebApp for creating collection
 
 https://github.com/maxwellfortney/next-candy-machine (More simplified version of this repo)
 
-## Hire
-
-If you want to hire me to develop your candy machine application on the Solana or Ethereum blockchain feel free to reach me through the email kevin@faveri.dev
